@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Mohab_Popo.aternos.me:19520",
+    "port": 19520,
     "version": "",
     "try-creative": false
   },
